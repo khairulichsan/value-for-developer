@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ValueDev</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="value">Value</string>
+    <string name="password">password</string>
+    <string name="did_you_forgot_your_password">did you forgot your password</string>
+    <string name="tap_here_for_reset">tap here for reset</string>
+    <string name="or">or</string>
+    <string name="text_to_Reg">Don\'t have an account? <b><font color='#03A9F4'>SIGN UP</font></b></string>
+    <string name="google">google</string>
+    <string name="facebook">facebook</string>
+    <string name="next">next</string>
+    <string name="skip">skip</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_my_account">Create My Account</string>
+    <string name="full_name">full name</string>
+    <string name="register">Register</string>
+    <string name="phone_number">phone number</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="accept_terms_and_condition">accept terms and condition</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="profile">Profile</string>
+    <string name="add_skill">Add Skill</string>
+    <string name="add_experience">Add Experience</string>
+    <string name="add_portfolio">Add Portfolio</string>
+    <string name="upload_image">Upload image</string>
+</resources>
